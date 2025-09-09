@@ -12,6 +12,11 @@ body {
   color: #333;
 }
 
+.hero {
+  background-image: url("images/hero-bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
 /* ===== Header & Navigation ===== */
 header {
   background: #111;
