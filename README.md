@@ -37,7 +37,7 @@ GitHub Pages for deployment
 
 🚀 Deployment
 
-🌍 Live Website: Click Here
+🌍 Live Website: https://benedict254-ke.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 💻 Source Code Repository: Click Here
 
